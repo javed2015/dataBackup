@@ -1,0 +1,57 @@
+.hd {
+	font-size:20px;
+	margin-top: 50px;
+    border-top-width: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+	border:2px solid grey;
+	background-color:grey;
+	color:white;
+	padding-left: 10px;
+}
+.proj {
+	font-size: 20px;
+    margin-top: 50px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    margin-bottom: 23px;
+    border: 2px solid #7DA9cc;
+    background-color: #7DA9cc;
+    color: white; 
+    text-align: center;
+    margin: 35px;
+}
+.t1{
+	width: 455px;
+    height: 45px;
+    margin: 15px;
+    margin-top: 2px;
+}
+.t2{
+	width: 450px;
+    height: 45px;
+    margin-left: 516px;
+    margin-top: -61px;
+    margin-bottom: 29px;
+}
+.btn1 {
+	bottom:10px;
+}
+.bt{
+	position: relative;
+    left: 202px;
+    bottom: 28px;
+}
+.text{
+	position: fixed;
+    top: 135px;
+
+}
+body {
+	font-size:16px;
+	padding:2 2 2 2px;
+}
+.na {
+	border:2px solid grey;
+}
